@@ -13,3 +13,10 @@
     margin: 0;
     flex-direction: column;
 }
+
+    button {
+        background: none;
+        border: none;
+        cursor: pointer;
+        font-size: 16px;
+    }
